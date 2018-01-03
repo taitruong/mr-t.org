@@ -15,7 +15,7 @@ Als wir alle nach vorne kamen, um den Preis entgegenzunehmen, hat der Verein ans
 <center>
 Vor längst, luziden Tagen <br>
 verlor, verließ, vollzog, volltrennte <br>
-ich, vierjähriger Junger, <br>
+ich, vierjähriger Junge, <br>
 meinen Boden unter den Füßen, <br>
 und war mir bewußt, gewiß, ganz ungewiß: <br>
 <br>
@@ -58,18 +58,18 @@ auf diesen wir uns gefundenen Boden!<br>
 
 <img src="{{site.baseurl}}/images/2018-01-03-überarbeitete-Fassung.jpg" class="fit image">
 
-Wenn das deine Heimat ist, deine Wurzeln hier verbunden sind, du Geschichten über deine Vorfahren aus dem gleichen Dorf oder Verwandten aus anderen Teilen Deutschlands erzählen/berichten kannst, dann entspricht das schon gut meiner Vorstellung von Wurzeln, Vergangenheit, Tradition, Heimat... es ist bewundernswert, etwas das ich erst anfange aufzubauen - denn davor gibt es nichts, nicht hier. Für viele Flüchtlinge - so zumindest erging es mir lange Zeit, gab es dieses Gefühl des [Ground Zeros](https://de.wikipedia.org/wiki/Ground_Zero). Dank vieler hilfsbereiter Menschen, der Dorfgemeinde in der unsere Eltern schon seit fast 40 Jahren leben, unglaublicher Organisationen wie dem des Roten Kreus und Caritasverbandes, dem Staat, dem tollen Bildungssystem, der vielen Möglichkeiten, die uns hier gegeben wurde... dank all derer bin ich hier sehr verbunden. All diese Möglichkeiten, Erfahrungen wünsche ich, dass allen Flüchtlingen, Hilfssuchenden Menschen das gleiche, Ansatzweise oder ähnlich Schönes wiederfahrt wie mir!
+Wenn das deine Heimat ist, deine Wurzeln hier verbunden sind, du Geschichten über deine Vorfahren aus dem gleichen Dorf oder Verwandten aus anderen Teilen Deutschlands erzählen/berichten kannst, dann entspricht das schon gut meiner Vorstellung von Wurzeln, Vergangenheit, Tradition, Heimat... es ist bewundernswert, etwas das ich erst anfange aufzubauen - denn davor gibt es nichts, nicht hier. Für viele Flüchtlinge - so zumindest erging es mir lange Zeit, gab es dieses Gefühl des [Ground Zeros](https://de.wikipedia.org/wiki/Ground_Zero). Dank vieler hilfsbereiter Menschen, der Dorfgemeinde in der unsere Eltern schon seit fast 40 Jahren leben, unglaublicher Organisationen wie dem des Roten Kreuzes und Caritas-Verbandes, dem Staat, dem tollen Bildungssystem, der vielen Möglichkeiten, die uns hier gegeben wurde... dank all derer bin ich hier sehr verbunden. All diese Möglichkeiten, Erfahrungen wünsche ich, dass allen Flüchtlingen, Hilfssuchenden Menschen das gleiche, Ansatzweise oder ähnlich Schönes wiederfährt wie mir!
 
 # Selbstsicherer Auftakt
 
-Das Gedicht selbst ist Anlehnung meines Lieblingsgedichts "Selbstsicherer Auftakt" aus dem Jahr 1889. [Hier im Netz](http://artsites.ucsc.edu/GDead/agdl/holz.html#self) habe ich nur eine englische Version gefunden. Aber zum Glück habe ich das Gedichtband von ihm:
+Mein Gedicht selbst ist in Anlehnung meines Lieblingsgedichts "Selbstsicherer Auftakt" aus dem Jahr 1889. [Hier im Netz](http://artsites.ucsc.edu/GDead/agdl/holz.html#self) habe ich nur eine englische Version gefunden. Aber zum Glück habe ich das Gedichtband von ihm:
 
 <img src="{{site.baseurl}}/images/2018-01-03-Arno-Holz-selbstsicher-Auftakt-1.jpg" class="fit image">
 <img src="{{site.baseurl}}/images/2018-01-03-Arno-Holz-selbstsicher-Auftakt-2.jpg" class="fit image">
 
 Wenn ich es nicht besser wüsste, dann wäre ich nie darauf gekommen, wie alt dieser Text ist. Wie [Arno Holz](http://www.zeit.de/1963/43/die-lust-am-allzulangen) schon vor über 130 Jahren mit Wörten gespielt hat, sie in die Luft warf und ein neues Kunterbunt erschuf, liegt der meiner Vorstellung, Art und Weise sehr nahe. Jedoch ist mein Hintergrund ein anderer. Oftmals denke ich, dass es meine wurzellosen, sprachfreien, neutralen, Gemisch-Wirr-Warr-anderer Sprachen-Kulturen dieses Wollknäuel in meinen Gedanken, Texten und Sätzen erschafffen.
 
-Sei's drum. Wenn's dir gefällt, dann kann schau mal wieder vorbei ;).
+Sei's drum. Wenn's dir gefällt, dann schau hier wieder vorbei ;).
 
 Wünsch dir was, Tai
 
