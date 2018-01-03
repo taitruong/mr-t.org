@@ -11,12 +11,12 @@
 
 		<!--[if lte IE 8]><script src="/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" type="text/css">
-		<link rel="stylesheet" href="/css/main.css">
+		<link rel="stylesheet" href="{{site.baseurl}}/css/main.css">
 		<!--[if lte IE 8]><link rel="stylesheet" href="/css/ie8.css" /><![endif]-->
 
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" href="/touch-icon.png" sizes="192x192">
-    <link rel="icon" type="image/png" href="/images/favicon.png">
+    <link rel="icon" type="image/png" href="{{site.baseurl}}/touch-icon.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="{{site.baseurl}}/images/favicon.png">
 
     {% seo %}
     {% feed_meta %}
@@ -25,7 +25,7 @@
 
 	<body id="top">
     <header id="header">
-      <a href="{{ site.url }}" class="image avatar"><img class="editable" src="/images/avatar.jpg" alt="{{ site.author.name }}"></a>
+      <a href="{{ site.url }}" class="image avatar"><img class="editable" src="{{site.baseurl}}/images/avatar.jpg" alt="{{ site.author.name }}"></a>
       <h1 class="editable"><strong>Mr. T's <a href="/">blog</a></strong>,<br>
       thoughts, poems,<br>
       and other personal notes.</h1>
@@ -57,12 +57,12 @@
       </ul>
     </footer>
 
-		<script src="/js/jquery.min.js"></script>
-		<script src="/js/jquery.poptrox.min.js"></script>
-		<script src="/js/skel.min.js"></script>
-		<script src="/js/util.js"></script>
+		<script src="{{site.baseurl}}/js/jquery.min.js"></script>
+		<script src="{{site.baseurl}}/js/jquery.poptrox.min.js"></script>
+		<script src="{{site.baseurl}}/js/skel.min.js"></script>
+		<script src="{{site.baseurl}}/js/util.js"></script>
 		<!--[if lte IE 8]><script src="/js/ie/respond.min.js"></script><![endif]-->
-		<script src="/js/main.js"></script>
+		<script src="{{site.baseurl}}/js/main.js"></script>
 
 		{% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
 			<script>
