@@ -1,7 +1,7 @@
 locale: "de-DE"
 title: Mr. T's Geschnippeltes-Geschnappeltes...
 baseurl: ""
-url: "https://taitruong.github.io/mr-t.org"
+url: "https://taitruong.github.io"
 google_analytics_key: ""
 
 # Default description in social shares for the jekyll-seo-tag gem
