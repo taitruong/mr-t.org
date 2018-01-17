@@ -47,8 +47,8 @@ Obwohl dieser beiden Obwohls, hat ein "Anfang innenwohnender Zauber" die gleiche
 # Herman Hesse, Stufen-Gedicht
 
 Quelle:
-- [http://www.lyrikwelt.de/gedichte/hesseg1.htm](lyrikwelt.de)
-- [https://de.wikipedia.org/wiki/Stufen](Wikipedia, Stufen)
+- [lyrikwelt.de](http://lyrikwelt.de/gedichte/hesseg1.htm)
+- [Wikipedia, Stufen](https://de.wikipedia.org/wiki/Stufen)
 
 Stufen
 
@@ -61,8 +61,7 @@ Stufen
 >Um sich in Tapferkeit und ohne Trauern<br>
 >In andre, neue Bindungen zu geben.<br>
 >Und jedem Anfang wohnt ein Zauber inne,<br>
->Der uns beschützt und der uns hilft, zu leben.<br>
-
+>Der uns beschützt und der uns hilft, zu leben.<br><br>
 >Wir sollen heiter Raum um Raum durchschreiten,<br>
 >An keinem wie an einer Heimat hängen,<br>
 >Der Weltgeist will nicht fesseln uns und engen,<br>
@@ -70,12 +69,16 @@ Stufen
 >Kaum sind wir heimisch einem Lebenskreise<br>
 >Und traulich eingewohnt, so droht Erschlaffen,<br>
 >Nur wer bereit zu Aufbruch ist und Reise,<br>
->Mag lähmender Gewöhnung sich entraffen.<br>
-
+>Mag lähmender Gewöhnung sich entraffen.<br><br>
 >Es wird vielleicht auch noch die Todesstunde<br>
 >Uns neuen Räumen jung entgegen senden,<br>
 >Des Lebens Ruf an uns wird niemals enden...<br>
->Wohlan denn, Herz, nimm Abschied und gesunde!<br>
+>Wohlan denn, Herz, nimm Abschied und gesunde!
+
+Inhaltlich beschreibt [Wikipedia](https://de.wikipedia.org/wiki/Stufen#Inhalt) das Gedicht:
+> Jede Lebensstufe, Tugend und Weisheit ist an sich zeitlich begrenzt und blüht zu ihrer jeweiligen Zeit. Der Mensch soll sich also bei jedem Ruf des Lebens mit Tapfer- und Heiterkeit sowie ohne Trauer von seinem alten Lebensstadium verabschieden und einen Neubeginn wagen. Er soll sich außerdem an keiner der Lebensstufen festhalten, da der „Weltgeist“ für ihn keine Einengung, sondern eine Ausweitung von Stufe zu Stufe vorsieht. Hat man auf einer Stufe Heimat gefunden, so droht man in eine Erschlaffung und Lähmung zu geraten. Dieser Stufenprozess ist nicht zwangsläufig schon mit dem Tod abgeschlossen, weil das Leben fortwährend ruft. Somit soll der Mensch den Tod als Genesung betrachten, denn letztlich ist auch er nur der Abschied von einer Lebensstufe.
+
+
 
 <img src="{{site.baseurl}}/images/2018-01-17-banksy.jpg" class="fit image">
 
