@@ -69,11 +69,12 @@ Metropolis, Ein Meilenstein in der Geschichte des Films. Ganz großes Kino von [
 
 Im September 2016 hatte ich bereits einen Facebook-Eintrag über eine Star Trek-Folge gemacht ([auf FB findest dort auch einen amüsanten Video-Upload zu dieser Folge ;)](https://www.facebook.com/tai.truong.547/videos/10209569581109494/)):
 
-> Star Trek, Staffel 3, Episode 21, diese Szene ging mir erstmal 1997 durch den Kopf:<br>
+> Star Trek, Staffel 3, Episode 21, diese Szene ging mir erstmals 1997 durch den Kopf:<br>
 > Father, are we so sure of our methods that we never question what we do?<br>
 > [Vater! Sind wir so überzeugt von unseren Methoden, dass wir das, was wir tun, niemals in Frage stellen?]<br>
 > Die Frage beschäftigt sich mit einem bzw. dem(!) philosophischen Kernthema aus dem Star Trek-Universum:
 
+"Vater! Sind wir so überzeugt von unseren Methoden, dass wir das, was wir tun, niemals in Frage stellen?"... diese kritische Zeile ist seither mein Wegbegleiter. Sie ermahnt mich und erinnert mich daran, auf dem Boden zu bleiben.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9tDQJApPppY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 > Die Bedürfnisse Vieler sind wichtiger als das Wohl Weniger ... oder eines Einzelnen.<br>
@@ -83,7 +84,7 @@ Im September 2016 hatte ich bereits einen Facebook-Eintrag über eine Star Trek-
 
 > In dieser Folge sind die Troglyten die Ausgebeuteten, angelehnt am griechischen Wort Troglodyten - die Höhlenmenschen. Dieser Begriff wird auch in [Platon's Höhlengleichnis](https://de.wikipedia.org/wiki/Höhlengleichnis) verwendet.
 
-# Herman Hesse, Stufen-Gedicht
+# "Stufen", von Herman Hesse
 
 [Stufen, lyrikwelt.de](http://lyrikwelt.de/gedichte/hesseg1.htm):
 
@@ -116,7 +117,7 @@ Inhaltlich beschreibt [Wikipedia](https://de.wikipedia.org/wiki/Stufen#Inhalt) d
 > Jede Lebensstufe, Tugend und Weisheit ist an sich zeitlich begrenzt und blüht zu ihrer jeweiligen Zeit. Der Mensch soll sich also bei jedem Ruf des Lebens mit Tapfer- und Heiterkeit sowie ohne Trauer von seinem alten Lebensstadium verabschieden und einen Neubeginn wagen. Er soll sich außerdem an keiner der Lebensstufen festhalten, da der „Weltgeist“ für ihn keine Einengung, sondern eine Ausweitung von Stufe zu Stufe vorsieht. Hat man auf einer Stufe Heimat gefunden, so droht man in eine Erschlaffung und Lähmung zu geraten. Dieser Stufenprozess ist nicht zwangsläufig schon mit dem Tod abgeschlossen, weil das Leben fortwährend ruft. Somit soll der Mensch den Tod als Genesung betrachten, denn letztlich ist auch er nur der Abschied von einer Lebensstufe.
 
 <img class="fit image" src="{{site.baseurl}}/images/2018-01-17-banksy.jpg">
-
+[Qrt: anonyme Küche, Ursprung: Banksy, eines meiner liebsten Motive, Motiv: entflohenes Mädchen mit Luftballon oder Mädchen mit entflohenem Luftballon?]
 
 Für A.
 
