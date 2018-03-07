@@ -7,7 +7,7 @@ comments: true
 ---
 # Amazing Grace, Tohuwabohu
 [6. März 2018]
-<iframe width="896" height="504" src="https://www.youtube.com/embed/CDdvReNKKuk?start=50" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CDdvReNKKuk?start=50" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Amazing Grace
 
@@ -21,7 +21,7 @@ comments: true
 Zu dem Song, über Versklavung und "Black Notes" gibt es eine interessante, schöne, lustige Geschichte auf YouTube, das ich vor einigen Jahren entdeckte:
 
 "... I went up to the Library Congress. I look up that song. And wherever you see it. Authenticately printed. You know what it says? WORDS: John Newton. Melody... unknown. I tell the lord when I get to him. I wanna be Abraham, and Isaac, and Jakob, before I wanna meet that slave called Unknow :P...  "
-<iframe width="896" height="504" src="https://www.youtube.com/embed/qNuQbJst4Lk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNuQbJst4Lk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Tohuwabohu - ein hebräisches Wort im deutschen Sprachgebrauch
 
