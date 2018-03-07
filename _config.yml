@@ -1,8 +1,10 @@
-locale: "de-DE"
+#locale: "de-DE"
 title: Mr. T's Geschnippeltes-Geschnappeltes...
+email: me@mr-t.org
+description: Mr. T's Geschnippeltes-Geschnappeltes...
 baseurl: "/mr-t.org"
 url: "https://taitruong.github.io"
-google_analytics_key: ""
+#google_analytics_key: ""
 
 # Default description in social shares for the jekyll-seo-tag gem
 description: > # this means to ignore newlines until "baseurl:"
