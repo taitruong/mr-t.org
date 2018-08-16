@@ -11,7 +11,7 @@ comments: true
 
 # Theodore Roosevelt
 
-Dieses Sprichwort zitierte der US-Präsident Theodore Roosevelt erstmalig 1900/1901. Er griff das später nochmal um seine Außenpolitik bechreiben - bekannt als "[Big Stick](https://de.wikipedia.org/wiki/Big_Stick)".
+Dieses Sprichwort zitierte der US-Präsident Theodore Roosevelt erstmalig 1900/1901. Er griff das später nochmal auf, um seine Außenpolitik zu beschreiben - bekannt als "[Big Stick](https://de.wikipedia.org/wiki/Big_Stick)".
 
 # Die Macht der Geographie
 
@@ -22,7 +22,7 @@ Die Redewendung entnahm ich zum ersten Mal aus dem Sachbuch [Die Macht der Geogr
 Unter anderem gefiel mir dieser Abschnitt:
 
 <img src="{{site.baseurl}}/images/2018-08-16-die-macht-der-geographie.png" class="image left">
-> "Der Gedanke, dass ein Mann aus einem bestimmten Gebiet nicht durch die Region reisen konnte, um einen Verwandten vom selben Stamm zu besuchen, solange er kein Dokument hatte, das ihm ein dritter Mann, den er nicht kannte und der sich in einer weit entfernten Stadt befand, ausgestellt hatte, machte wenig Sinn. Die Vorsttellung, dass das Dokument ausgegeben worden war, weil ein Fremder erklärt hatte, das Gebiet umfasse jetzt zwei Regionen, denen er bestimmte Namen verpasst hatte, erschien absolut sinnlos und widersprach der Lebensweise, die seit Jahrhunderten Bestand gehabt hatte."
+> "Der Gedanke, dass ein Mann aus einem bestimmten Gebiet nicht durch die Region reisen konnte, um einen Verwandten vom selben Stamm zu besuchen, solange er kein Dokument hatte, das ihm ein dritter Mann, den er nicht kannte und der sich in einer weit entfernten Stadt befand, ausgestellt hatte, machte wenig Sinn. Die Vorstellung, dass das Dokument ausgegeben worden war, weil ein Fremder erklärt hatte, das Gebiet umfasse jetzt zwei Regionen, denen er bestimmte Namen verpasst hatte, erschien absolut sinnlos und widersprach der Lebensweise, die seit Jahrhunderten Bestand gehabt hatte."
 -- Die Macht der Geographie, Tim Marshall, Kapitel 6, Der Nahe Osten
 
 Unweigerlich denke ich darüber nach, was "Heimat" bedeutet und über die große Flüchtlingswelle, die Deutschland angeblich überschwemmt. Zu diesem Thema erklärt der Komiker Bernhard Hoëcker kurz warum Flüchtlinge **kein** Problem sind:
@@ -34,6 +34,8 @@ Warum diese Lebensweise den Menschen - wie oben zitiert - widerspricht, liegt ei
 <img src="{{site.baseurl}}/images/2018-08-16-Empty_quarter_german.png" class="image right">
 > "... die dominierende Landschaftsform ist die der endlosen Wüste Arabiens ... die in Teile von Israel, Jordanien, Syrien, Kuwait, dem Irak, Oman und Jemen reicht... . ... es war auch bis zur europäischen Kolonisation für die meisten Menschen hier unüblich, in Kategorien wie Nationalstaaten und per Gesetz festgelegter Grenzen zu denken."
 -- Die Macht der Geographie, Tim Marshall, Kapitel 6, Der Nahe Osten
+
+In diesem Abschnitt, möchte ich noch auf ein interessantes Detail hinweisen: "...bis zur europäischen Kolonisation ... unüblich"! Dadurch wurde mir nahegebracht, welches Unheil diese sogenannten Kolonialmächte, Kolonialstaaten, Kolonialisten herbrachten.
 
 ## Rub al-Chali - größte Sandwüste der Erde
 Nebenbei lerne ich noch, dass [Rub al-Chali](https://de.wikipedia.org/wiki/Rub_al-Chali) die größte Sandwüste der Erde ist!
