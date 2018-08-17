@@ -5,13 +5,14 @@ date: 2018-08-16 23:58
 tags: [Theodore Roosevelt, Geopolitik, Die Macht der Geographie, Tim Marshall, Big Stick]
 comments: true
 ---
-> "Sprich sanft und trage einen großen Knüppel, [dann] wirst du weit kommen."
 
--- [altes afrikanisches Sprichwort, Wikipedia](https://de.wikipedia.org/wiki/Theodore_Roosevelt#Außenpolitik)
+Dieses alte afrikanische Sprichwort [(Quelle: Wikipedia)](https://de.wikipedia.org/wiki/Theodore_Roosevelt#Außenpolitik) fand ich in diesem Zeitungsartikel vom 1. April 1900:
 
-# Theodore Roosevelt
+> "Now, Governor Roosevelt does not mind a battle if necessary. ... he believes in using peaceful tactics first. He will arbitrate ... and then he'll fight till he cannot fight anymore. His motto, he says, he has taken from the South African people: '**Speak softly— carry a big stick— and you will go far.**' But he added, when he said this: 'If you simply speak softly the other man will bully you. If you leave your stick at home you will find the other man did not. If you carry the stick only and forget to speak softly in nine cases out of ten, the other man will have a bigger stick.<br>
+That has been the policy with the legislation he has been asked to favor."
+-- [ "Gambling and Vice in the State Capital", The Brooklyn Daily Eagle, 1. April 1900, Seite 39](https://www.newspapers.com/image/50386416/?terms="speak%2Bsoftly"%2B"big%2Bstick")
 
-Dieses Sprichwort zitierte der US-Präsident Theodore Roosevelt erstmalig 1900/1901. Er griff das später nochmal auf, um seine Außenpolitik zu beschreiben - bekannt als "[Big Stick](https://de.wikipedia.org/wiki/Big_Stick)".
+Dieses Sprichwort zitierte der spätere US-Präsident Theodore. Er griff das später nochmal auf, um seine Außenpolitik zu beschreiben - bekannt als "[Big Stick](https://de.wikipedia.org/wiki/Big_Stick)"-Ideologie.
 
 # Die Macht der Geographie
 
