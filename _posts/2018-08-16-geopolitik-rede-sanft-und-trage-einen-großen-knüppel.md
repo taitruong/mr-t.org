@@ -17,7 +17,7 @@ Dieses Sprichwort zitierte der spätere US-Präsident Theodore. Er griff das sp�
 
 # Die Macht der Geographie
 
-Die Redewendung entnahm ich zum ersten Mal aus dem Sachbuch [Die Macht der Geographie](https://www.swr.de/swr2/wissen/impuls-sachbuchtipps-marshall-die-macht-der-geographie/-/id=661224/did=17537270/nid=661224/1lur4bg/index.html) von Tim Marshall. Englischer und meines erachten viel treffender Titel:
+Die Redewendung entnahm ich zum ersten Mal aus dem Sachbuch [Die Macht der Geographie](https://www.swr.de/swr2/wissen/impuls-sachbuchtipps-marshall-die-macht-der-geographie/-/id=661224/did=17537270/nid=661224/1lur4bg/index.html) von Tim Marshall. Englischer - und meines Erachtens nach viel - treffender Titel:
 
 > "Prisoners of Geography: Ten Maps That Tell You Everything You Need to Know About Global Politics"
 
