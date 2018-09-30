@@ -47,12 +47,12 @@ On the positive side the apartment provides:
 
 These were the good things. But as my pregnant girlfriend said: the worst sleep at a place she ever had been. Maria, our host, leases two apartments: one on the ground floor and another one on the upper, 2nd floor. The other (or bad) things you need to know are:
 
-- WiFi is reachable basically only in the staircase. Probably because the its signal is sent from Maria's apartment on the top 2rd floor. The solution is pretty simple: buy a WiFi repeater like on Amazon!
+- WiFi is reachable basically only in the staircase. Probably because its signal is sent from Maria's apartment on the top 2rd floor. The solution is pretty simple: buy a WiFi repeater like on Amazon!
 - A poorly ventilated apartment compared to outside - where there was often wind from the sea. Opening windows didn't really help and is not advisable because of the mosquitos.
 - The mattress was in our opinion too soft, we couldn't get a good sleep most of the time. You need to be quiet cautious getting out of it without waking up your partner lying next to you.
 - Very old kitchen equipment. The blunt knifes made cutting vegetables, bread and other stuff a pain. One pan curled and not flat. Same goes to one plastic cutting board: old, badly worn, and curled.
 - The walls are thin where you could hear the streets and neighbors.
-- Last but not least the tightest shower - even for small people like me. There are no shelves for your daily shower experience. You can't knee down without touching any wall. The anti-slip mat is dangerous - I almost slipped away.
+- Last but not least the tightest shower - even for small people like me. It this that small that there are no shelves. You can't knee down without touching any wall. The anti-slip mat is dangerous - I almost slipped away.
 
 We booked the apartment end of August, 12 days, until September 2018. In total we paid 1360 Euro, including service fee ... well, Booking.com doesn't tell you that. But it ranges something between 20 and 35%.
 
@@ -69,7 +69,7 @@ This is our communication protocol with her and I on WhatsApp - and only on What
 <img class="image fit" src="{{site.baseurl}}/images/2018-09-29-whatsapp-protocol3.png">
 <img class="image fit" src="{{site.baseurl}}/images/2018-09-29-whatsapp-protocol4.png">
 
-The shower is very tight and for this price not acceptable. Honestly: the kitchen equqiment is overdue for the garbage and is a disgrace - especially for paying customers. The same goes for the mattress: it gave me the impression she has used it for many years in her apartment and instead of throwing it away she 'recycled' it for us.
+The shower is very tight and for this price not acceptable. Honestly: the kitchen equipment is overdue for the garbage and is a disgrace - especially for paying customers. The same goes for the mattress: it gave me the impression it has been used for years and instead of throwing it away she 'recycled' it for us.
 
 My biggest complaint is the minimal communication and service from our host, Maria. Why? Decide yourself. Because:
 
@@ -78,7 +78,7 @@ My biggest complaint is the minimal communication and service from our host, Mar
 - A few days later we asked whether we could cancel the remaining stay at her apartment and get some refund. Maria was not able approaching us half way.
 - We informed her that we will leave the apartment two days earlier. She only wrote us to leave the door open and leave the key inside so that the cleaning lady could do her job since she is at work.
 
-Am I complaining on a high level? I don't think so. We paid 1360 Euros. Compared to that we could get a good hotel with breakfast included and professional service like room service, making restaurant reservations and being available during day time and...
+Am I complaining on a high level? I don't think so. We left two days earlier and stay at the [hotel Colonna San Marco](https://www.booking.com/hotel/it/hotelsanmarcoportorotondo.html). It is a 4-star and it was lovely there. For the 1'360 Euros we have paid for the Via Spano apartment we could have stayed at this 4-star hotel for another 10 nights - including breakfast, room service, daily cleaning of our room, and you get all other comfort like restaurant reservations.
 
 ## Booking.com
 
