@@ -11,9 +11,9 @@ Here is my review on booking two private apartments: (German translation/Deutsch
 - our bad experience at the "Via Spano" apartment in Alghero, Sardinia, booked at Booking.com with a slow and so-so service.
 
 
-Let's start with the short, positive one ;).
+Let's start with the short, positive one :).
 
-First you need to know: many Italians do not speak English, or not that well as you could have a longer conversation with them. In restaurants and stores it is okay but when I wanna delve into a topic mostly I get an 'I don't understand'. Nevertheless the locals are great. Anna and I have been here this year for the third time :).
+First you need to know: many Italians do not speak English, or not that well as you could have a longer conversation with them. In restaurants and stores it is okay but when I wanna delve into a topic mostly I get an 'I don't understand'. Nevertheless the locals are great. Anna and I have been here this year for the third time. It is funny when they talk with me and they continue speaking Italian as if I could understand them :).
 
 # Postive - Apartment "Da Carlo", Levanto, Italy
 
@@ -32,9 +32,10 @@ For 8 nights at this place we paid 743,09 Euros, including 89,49 Euros for Airbn
 
 # Negative - Apartment "Via Spano", Alghero
 
-As my pregnant girlfriend said: the worst sleep at a place she ever had been. Maria, our host, leases two apartments: one on the ground floor and another one on the upper, 2nd floor.
+Our apartment was one the ground floor. You can find it on Booking.com or on [Google Maps](https://goo.gl/maps/CJ9iKWLaFuM2)
 
-Our apartment was one the ground floor. You can find it on Booking.com [here](www.booking.com/hotel/it/apartment-spano.html) or on Google Maps [here](https://goo.gl/maps/CJ9iKWLaFuM2).
+['Preferred partner' of Booking.com with 'excellent Wifi' as rated by other guests - which we can't confirm).](https://www.booking.com/hotel/it/apartment-spano.html)
+<img class="image fit" src="{{site.baseurl}}/images/2018-09-29-booking.com-apartment-overview.png">
 
 Regarding her apartment most people seem to be happy with it. At the time of writing it is rated with 9.3 points - Maria advertises it with 9.8 points from Booking.com at her appartment. 
 
@@ -44,9 +45,8 @@ On the positive side the apartment provides:
 + Sleeping room with air condition on the back side.
 + Backyard terasse with a washing machine.
 
-<img class="image fit" src="{{site.baseurl}}/images/2018-09-29-booking.com-apartment-overview.png">
+These were the good things. But as my pregnant girlfriend said: the worst sleep at a place she ever had been. Maria, our host, leases two apartments: one on the ground floor and another one on the upper, 2nd floor. The other (or bad) things you need to know are:
 
-These were the good things. The other (or bad) things you need to know are:
 - WiFi is reachable basically only in the staircase. Probably because the its signal is sent from Maria's apartment on the top 2rd floor. The solution is pretty simple: buy a WiFi repeater like on Amazon!
 - A poorly ventilated apartment compared to outside - where there was often wind from the sea. Opening windows didn't really help and is not advisable because of the mosquitos.
 - The mattress was in our opinion too soft, we couldn't get a good sleep most of the time. You need to be quiet cautious getting out of it without waking up your partner lying next to you.
