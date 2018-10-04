@@ -81,7 +81,7 @@ My biggest complaint is the minimal communication and service from our host, Mar
 - A few days later we asked whether we could cancel the remaining stay at her apartment and get some refund. Maria was not able approaching us half way.
 - We informed her that we will leave the apartment two days earlier. She only wrote us to leave the door open and leave the key inside so that the cleaning lady could do her job since she is at work.
 
-Am I complaining on a high level? I don't think so. We left two days earlier and stay at the [hotel Colonna San Marco](https://www.booking.com/hotel/it/hotelsanmarcoportorotondo.html). It is a 4-star and it was lovely there. For the 1'360 Euros we have paid for the Via Spano apartment we could have stayed at this 4-star hotel for another 10 nights - including breakfast, room service, daily cleaning of our room, and you get all other comfort like restaurant reservations.
+Am I complaining on a high level? I don't think so. We left two days earlier and stay at the [Hotel Colonna San Marco](https://www.booking.com/hotel/it/hotelsanmarcoportorotondo.html). It is a 4-star and it was lovely there. For the 1'360 Euros we have paid for the Via Spano apartment we could have stayed at this 4-star hotel for another 10 nights - including breakfast, room service, daily cleaning of our room, and you get all other comfort like restaurant reservations.
 
 ## Booking.com
 
@@ -108,7 +108,8 @@ Enjoy, Mr. T
 
 ...on Booking.com
 
-I have rated the 'Via Spano' apartment on Booking.com:
+I have rated the Via Spano apartment and Hotel Colonna San Marco on Booking.com:
+<img class="image fit" src="{{site.baseurl}}/images/2018-10-04-booking.com-pending-reviews.png">
 <img class="image fit" src="{{site.baseurl}}/images/2018-10-04-booking_review2.png">
 <img class="image fit" src="{{site.baseurl}}/images/2018-10-04-booking_review1.png">
 
