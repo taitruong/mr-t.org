@@ -47,6 +47,9 @@ On the positive side the apartment provides:
 
 These were the good things. But as my pregnant girlfriend said: the worst sleep at a place she ever had been. Maria, our host, leases two apartments: one on the ground floor and another one on the upper, 2nd floor. The other (or bad) things you need to know are:
 
+<img class="image fit" src="{{site.baseurl}}/images/2018-09-29-Via-Spano-apartment1.jpg">
+<img class="image fit" src="{{site.baseurl}}/images/2018-09-29-Via-Spano-apartment2.jpg">
+
 - WiFi is reachable basically only in the staircase. Probably because its signal is sent from Maria's apartment on the top 2rd floor. The solution is pretty simple: buy a WiFi repeater like on Amazon!
 - A poorly ventilated apartment compared to outside - where there was often wind from the sea. Opening windows didn't really help and is not advisable because of the mosquitos.
 - The mattress was in our opinion too soft, we couldn't get a good sleep most of the time. You need to be quiet cautious getting out of it without waking up your partner lying next to you.
