@@ -101,10 +101,15 @@ So far so good - or not! At least not for us. I'll keep you posted on Booking.co
 
 Enjoy, Mr. T
 
-# Oct 4th 2018 - Update on Booking.com
+# Oct 4th 2018 - Updates...
+
+...on Booking.com
 
 I have rated the 'Via Spano' apartment on Booking.com:
 <img class="image fit" src="{{site.baseurl}}/images/2018-10-04-booking_review2.png">
 <img class="image fit" src="{{site.baseurl}}/images/2018-10-04-booking_review1.png">
 
 Besides that I've replied to their customer service. Let's see what happens...
+
+... Google Maps
+Just in case I've put my review also on [Google Maps](https://goo.gl/maps/mjB8hx93RLq).
