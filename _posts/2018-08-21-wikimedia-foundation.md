@@ -6,7 +6,7 @@ tags: [Wort des Tages, larmoyant]
 comments: true
 ---
 Dieses Wort habe ich kürzlich auf der [intellitest.me-Seite](https://intellitest.me/de/knowledge/96VDLKR6AW2P/start) gefunden.
-<img src="{{site.baseurl}}/images/2019-08-21-larmoyant-intellitest.me.png" class="fit image">
+<img src="{{site.baseurl}}/images/2018-08-21-larmoyant-intellitest.me.png" class="fit image">
 
 Und da ich mich oftmals frage, was dieses oder jenes Wort bedeutet und woher es seinen Ursprung hat, habe ich meine liebste Quelle durchforstet: die Wikipedia- und Wiktionary-Site!
 >Adjektiv
