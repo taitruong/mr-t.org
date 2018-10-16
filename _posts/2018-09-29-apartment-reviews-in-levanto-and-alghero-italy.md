@@ -33,7 +33,7 @@ For 8 nights at this place we paid 743,09 Euros, including 89,49 Euros for Airbn
 
 # Negative - Apartment "Via Spano", Alghero
 
-Our apartment was one the ground floor. You can find it on Booking.com or on [Google Maps](https://goo.gl/maps/CJ9iKWLaFuM2)
+Our apartment was one the ground floor. You can find it on Booking.com or [my review on Google Maps](https://goo.gl/maps/1WkXukYEQBk)
 
 ['Preferred partner' of Booking.com with 'excellent Wifi' as rated by other guests - which we can't confirm).](https://www.booking.com/hotel/it/apartment-spano.html)
 <img class="image fit" src="{{site.baseurl}}/images/2018-09-29-booking.com-apartment-overview.png">
