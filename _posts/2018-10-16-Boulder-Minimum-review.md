@@ -5,7 +5,7 @@ date: 2018-10-16
 tags: [apartment, Airbnb, Booking.com, review, Italy, Levanto, Cinque Terre, Alghero, Sardinia]
 comments: true
 ---
-[Google translate this page e.g. to German](https://translate.google.com/translate?hl=en&sl=de&tl=en&u=https%3A%2F%2Ftaitruong.github.io%2Fmr-t.org%2F2018%2F10%2F16%2FBoulder-Minimum-review%2F)
+[Google translate this page](https://translate.google.com/translate?hl=en&sl=de&tl=en&u=https%3A%2F%2Ftaitruong.github.io%2Fmr-t.org%2F2018%2F10%2F16%2FBoulder-Minimum-review%2F)
 
 # Minimum Boulder, Zürich
 
