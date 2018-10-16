@@ -5,7 +5,7 @@ date: 2018-09-29
 tags: [apartment, Airbnb, Booking.com, review, Italy, Levanto, Cinque Terre, Alghero, Sardinia]
 comments: true
 ---
-[Google translate this page e.g. to German](https://translate.google.com/translate?hl=en&sl=en&tl=de&u=https%3A%2F%2Ftaitruong.github.io%2Fmr-t.org%2F2018%2F09%2F29%2Fapartment-reviews-in-levanto-and-alghero-italy%2F))
+[Google translate this page e.g. to German](https://translate.google.com/translate?hl=en&sl=en&tl=de&u=https%3A%2F%2Ftaitruong.github.io%2Fmr-t.org%2F2018%2F09%2F29%2Fapartment-reviews-in-levanto-and-alghero-italy%2F)
 
 Here is my review on booking two private apartments:
 - our great experience at the "Da Carlo" apartment in Levanto, Italy, booked at Airbnb with an excellent, fast service.
